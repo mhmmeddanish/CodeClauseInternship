@@ -13,7 +13,7 @@ This project implements advanced NLP techniques to process and understand legal 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/legal-document-nlp-processor.git
+    git clone https://github.com/mhmmeddanish/legal-document-nlp-processor.git
     cd legal-document-nlp-processor
     ```
 
