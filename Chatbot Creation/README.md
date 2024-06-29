@@ -26,7 +26,7 @@ This project implements advanced NLP techniques to process and understand legal 
 
 ## Usage
 
-1. Open the `main.py` file and replace the placeholder text with your legal document text:
+1. Open the `chatbot.py` file and replace the placeholder text with your legal document text:
 
     ```python
     # Input your legal document text here
@@ -37,10 +37,10 @@ This project implements advanced NLP techniques to process and understand legal 
     """
     ```
 
-2. Run the `main.py` script:
+2. Run the `chatbot.py` script:
 
     ```bash
-    python main.py
+    python chatbot.py
     ```
 
 3. The script will output the extracted entities, identified clauses, and the generated summary.
